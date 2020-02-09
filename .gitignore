@@ -1,0 +1,6 @@
+.myenv
+myenv/
+myenv.bak/
+NTI_data/
+NTI_data.bak/
+.NTI_data

@@ -1,0 +1,3 @@
+Plans
+use this insane paper: https://www.shangzeyuan.com/static/papers/2019/sigmod2019-automl.pdf
+learn about these references: [4, 6, 13, 23, 24, 36, 45] + Hyperband[22]
