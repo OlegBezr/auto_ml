@@ -4,3 +4,9 @@ myenv.bak/
 NTI_data/
 NTI_data.bak/
 .NTI_data
+AutogluonModels/
+dask-worker-space/
+structured_data_regressor/
+tools/
+.myenv
+
