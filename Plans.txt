@@ -1,9 +1,0 @@
-Plans
-use this insane paper: https://www.shangzeyuan.com/static/papers/2019/sigmod2019-automl.pdf
-learn about these references: [4, 6, 13, 23, 24, 36, 45] + Hyperband[22]
-
-Best autoML tools:
-https://www.amazon.science/amazons-autogluon-helps-developers-get-up-and-running-with-state-of-the-art-deep-learning-models-with-just-a-few-lines-of-code\ -> (https://autogluon.mxnet.io/tutorials/tabular_prediction/tabular-quickstart.html)
-https://automl.github.io/auto-sklearn/master/installation.html#windows-osx-compatibility (only linux!!)
-https://github.com/fracpete/python-weka-wrapper3
-

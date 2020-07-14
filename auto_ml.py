@@ -1,3 +1,0 @@
-import featuretools as ft
-
-

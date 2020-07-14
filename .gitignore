@@ -1,7 +1,14 @@
 tools/
 myenv/
+
+.vscode/
+
 NTI_data/
 data_final/
 AutogluonModels/
 dask-worker-space/
 structured_data_regressor/
+
+auto_gluon/
+auto_keras/
+tpot/
