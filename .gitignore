@@ -8,6 +8,7 @@ data_final/
 AutogluonModels/
 dask-worker-space/
 structured_data_regressor/
+structured_data_classifier/
 
 auto_gluon/
 auto_keras/
