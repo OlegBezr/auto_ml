@@ -16,3 +16,5 @@ autogluon/
 autokeras/
 tpot/
 base_venv/
+
+.ipynb_checkpoints/
